@@ -1,6 +1,6 @@
 <!--
   EVANK253 / PROFILE INTERFACE
-  Public portfolio overview. Technical descriptions are intentionally high-level.
+  Investor-facing portfolio overview. Proprietary implementation details remain private.
 -->
 
 <p align="center">
@@ -9,84 +9,130 @@
 
 <p align="center">
   <strong>INDEPENDENT SYSTEMS ENGINEERING</strong><br/>
-  AI Systems · Engineering Intelligence · Computational Research · Human-Governed Architecture
+  AI Systems · Superintelligence Research · Engineering Intelligence · Human-Governed Architecture
 </p>
 
 <p align="center">
-  <a href="https://github.com/Evank253?tab=repositories">REPOSITORIES</a>
+  <a href="https://github.com/Evank253?tab=repositories">EXPLORE THE WORK</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Evank253?tab=activity">ACTIVITY</a>
+  <a href="https://github.com/Evank253?tab=activity">DEVELOPMENT ACTIVITY</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sponsors/Evank253"><strong>♥ SPONSOR THE WORK</strong></a>
   &nbsp;·&nbsp;
   <a href="https://gravatar.com/evanketchum2000">PROFILE</a>
 </p>
 
 ---
 
-## SYSTEMS OVERVIEW
+## THE BUILDER
 
-I independently design, build, and evaluate software systems focused on intelligent engineering workflows, governed computation, system continuity, and scientific problem-solving.
+I’m Evan Ketchum, an independent systems engineer and technical founder developing a portfolio of intelligent systems focused on governed AI, engineering execution, computational research, and infrastructure continuity.
 
-My work brings together software architecture, field engineering experience, iterative experimentation, and evidence-driven development. The projects below represent the principal research and engineering directions across my repositories.
+My work is shaped by two disciplines: building and leading real-world telecommunications infrastructure, and independently designing software architectures that make complex systems more accountable, inspectable, and useful.
+
+I bring **14 years of telecommunications and field-infrastructure experience**, including **13 years in foreman leadership**, together with ongoing software engineering study and independent research and development.
+
+**My focus:** build systems that do more than produce outputs — systems whose processes, evidence, boundaries, and human accountability can be examined.
+
+## THE SYSTEMS PORTFOLIO
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>01 / KCN</h3>
       <strong>Ketchum Cognitive Network</strong><br/>
-      A human-governed intelligence architecture exploring coordination, controlled tool use, and accountable system behavior.
+      A human-governed intelligence architecture exploring coordinated tools, controlled execution, traceable decisions, and accountable AI behavior.
     </td>
     <td width="50%" valign="top">
       <h3>02 / MANIFEX</h3>
       <strong>Engineering Intelligence &amp; Execution</strong><br/>
-      An engineering environment focused on artifact discovery, inspection, qualification, execution evidence, and reusable outcomes.
+      An engineering environment for artifact discovery, inspection, qualification workflows, execution evidence, and reusable engineering outcomes.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03 / GENESIS SEED</h3>
-      <strong>Data Continuity &amp; Reconciliation</strong><br/>
-      Research into identity, state, lineage, and consistency across distributed systems and fragmented data environments.
+      <strong>Data Continuity &amp; Lineage</strong><br/>
+      Research into identity, state, provenance, and reconciliation across distributed systems and fragmented data environments.
     </td>
     <td width="50%" valign="top">
       <h3>04 / SCIENTIFIC INTELLIGENCE</h3>
       <strong>Computational Research</strong><br/>
-      Work exploring mathematical computation, multi-directional problem solving, optimization, and verification.
+      Work exploring mathematical computation, forward and backward problem solving, optimization, simulation, and verification.
     </td>
   </tr>
 </table>
 
-## ENGINEERING WORKFLOW
+## WHAT I DO
 
-A broader development direction connects specialized engineering stages into a governed workflow:
+- **AI and intelligent-systems engineering** — design architectures for coordinated, tool-using systems with explicit operating boundaries.
+- **Systems architecture and integration** — connect components, workflows, data, and services into coherent technical environments.
+- **Governance and assurance** — develop human-oversight, evidence, authorization, and fail-closed design patterns.
+- **Engineering automation** — build workflow orchestration, preflight checks, testing paths, and execution-evidence pipelines.
+- **Cybersecurity-minded engineering** — assess trust boundaries, identity, access, failure modes, and system integrity.
+- **Computational and scientific research** — investigate mathematical models, optimization, simulation, and reproducible verification.
+- **Infrastructure and field operations** — bring practical experience in aerial and underground construction, fiber and copper networks, cell sites, and data-center infrastructure.
 
-<p align="center">
-  <code>DISCOVER</code> &nbsp;→&nbsp; <code>INSPECT</code> &nbsp;→&nbsp; <code>BUILD</code> &nbsp;→&nbsp; <code>TEST</code> &nbsp;→&nbsp; <code>VERIFY</code> &nbsp;→&nbsp; <code>REGISTER</code>
-</p>
+## CORE STRENGTHS
 
-Related areas include development automation, preflight checks, code-generation workflows, security evaluation, benchmarking, and evidence capture.
-
-**Integration status matters:** these projects and components are at different stages of implementation and validation. This portfolio does not imply that every component is fully integrated or production-ready. Test results and maturity claims should be evaluated against the evidence in each individual repository.
+| Strength | How it shows up in my work |
+| --- | --- |
+| Systems thinking | See dependencies, interfaces, and lifecycle behavior — not just isolated features. |
+| Architecture and integration | Break complex goals into components with defined responsibilities. |
+| Operational leadership | 14 years in infrastructure work, including 13 years leading field crews. |
+| Governance-first design | Keep human accountability distinct from software capability and automated output. |
+| Evidence-driven execution | Separate what is implemented, tested, measured, qualified, and approved. |
+| Troubleshooting under pressure | Diagnose real-world problems and coordinate safe, practical execution. |
+| Independent research and development | Move from a question to a structured investigation, prototype, and verification path. |
 
 ## ENGINEERING PRINCIPLES
 
-- **Human accountability:** automation supports human decision-making; it does not grant itself authority.
-- **Evidence before claims:** distinguish implementation, test results, qualification, and approval.
-- **Fail-closed thinking:** unresolved or unmeasured conditions should remain visible.
-- **Incremental development:** preserve history and make changes traceable.
-- **Systems-level reasoning:** consider interfaces, dependencies, failure modes, and lifecycle—not only individual features.
+- **Human authority stays external:** software can assist a decision; it cannot grant itself authority.
+- **Evidence before claims:** implementation, test results, qualification, and approval are different things.
+- **Fail closed:** unresolved or unmeasured conditions remain visible rather than being silently treated as success.
+- **Preserve provenance:** changes, artifacts, and decisions should be traceable.
+- **Build incrementally:** protect existing work and make development auditable.
+- **Practical systems thinking:** account for interfaces, dependencies, operational constraints, and failure conditions.
 
-## TECHNICAL BACKGROUND
+## SELECTED PUBLIC WORK
 
-My engineering perspective is shaped by both software development and 14 years of hands-on telecommunications and field construction leadership, including aerial and underground infrastructure, fiber and copper systems, data-center work, and field operations.
+- [Ketchum's Physics-Optimized Super-Intelligence AI](https://github.com/Evank253/Ketchums-physics-optimized-super-intelligence-ai) — public research and engineering showcase.
+- [World View](https://github.com/Evank253/world-view) — public systems and interface work.
+- [Worldview Command Center of Technologies](https://github.com/Evank253/worldviewcommandcenteroftechnologies) — public command-center and technology work.
+- [Browse all public repositories](https://github.com/Evank253?tab=repositories).
 
-That experience informs how I approach complex systems: plan the work, understand dependencies, account for real-world failure conditions, and verify the result.
+Some projects and implementation details are private or under active development. Public descriptions are intentionally high-level; access to proprietary source, internal architecture, and detailed evidence is controlled. Project maturity varies, and no claim is made that every component is fully integrated or production-ready.
 
-## EXPLORE THE WORK
+## TRAINING & PROFESSIONAL CREDENTIALS
+
+My field background includes training and credentials in:
+
+- OSHA 30
+- Flagger / traffic-control training
+- Confined-space training
+- CPR and First Aid
+- AutoCAD training
+
+Certificate scans and issuing details are not currently published in this portfolio. Supporting documentation can be added to a dedicated credential gallery when the original records are available for review. I do not present training credentials as academic degrees or professional licenses.
+
+## EDUCATION
+
+Software Engineering studies — University of Advancing Technology (online).
+
+## SUPPORT INDEPENDENT DEVELOPMENT
+
+I’m building this work independently. Sponsorship helps create dedicated development time and supports testing infrastructure, research, documentation, security review, and the continued maintenance of public-facing work.
 
 <p align="center">
-  <a href="https://github.com/Evank253?tab=repositories"><strong> BROWSE PUBLIC REPOSITORIES → </strong></a>
+  <a href="https://github.com/sponsors/Evank253"><strong>♥ BECOME A GITHUB SPONSOR</strong></a>
 </p>
 
+For organizations interested in collaboration, technical evaluation, or supporting open-source engineering, please reach out through GitHub.
+
+---
+
 <p align="center">
-  <sub>Independent work · Systems architecture · Continuous research and development</sub>
+  <strong>EVAN KETCHUM</strong><br/>
+  Independent Systems Engineering · Research · Development<br/>
+  <sub>Build with purpose. Verify with evidence. Keep humans accountable.</sub>
 </p>
