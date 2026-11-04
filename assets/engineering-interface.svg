@@ -1,38 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Evan Ketchum — Systems Engineering</title>
-<desc id="desc">A dark, dimensional systems visualization with a luminous central intelligence node and interconnected engineering layers.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Evan Ketchum | Independent Systems Engineering</title>
+<desc id="desc">Futuristic dark engineering portfolio interface with a luminous intelligence core, orbiting system nodes, circuit traces, and neon cyan and violet details.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".55" stop-color="#09182a"/><stop offset="1" stop-color="#080b18"/></linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35e7ff" stop-opacity=".05"/><stop offset=".5" stop-color="#35e7ff" stop-opacity=".9"/><stop offset="1" stop-color="#8b78ff" stop-opacity=".25"/></linearGradient>
-  <radialGradient id="core"><stop stop-color="#c8fbff"/><stop offset=".18" stop-color="#35e7ff"/><stop offset=".55" stop-color="#1474a5" stop-opacity=".5"/><stop offset="1" stop-color="#1474a5" stop-opacity="0"/></radialGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#78b9d0" stroke-opacity=".09" stroke-width="1"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".55" stop-color="#09172b"/><stop offset="1" stop-color="#160b2b"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#37f3ff"/><stop offset=".52" stop-color="#5d9bff"/><stop offset="1" stop-color="#c06bff"/></linearGradient>
+ <radialGradient id="core"><stop stop-color="#d6ffff"/><stop offset=".15" stop-color="#39eaff"/><stop offset=".48" stop-color="#227ac0" stop-opacity=".65"/><stop offset="1" stop-color="#227ac0" stop-opacity="0"/></radialGradient>
+ <radialGradient id="halo"><stop stop-color="#38dfff" stop-opacity=".2"/><stop offset="1" stop-color="#38dfff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#86baff" stroke-opacity=".08"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-<path d="M0 286H1200M0 74H1200" stroke="#55dfff" stroke-opacity=".12"/>
-<g fill="none" stroke="url(#line)" stroke-width="1.4">
- <path d="M690 180L830 90L1015 105L1120 180L1015 265L830 270Z"/>
- <path d="M690 180L830 90L830 270L690 180L1015 105L1015 265L830 270"/>
- <path d="M830 90L1015 105L1120 180L1015 265L830 270"/>
- <path d="M690 180L830 90M690 180L830 270M690 180L1015 105M690 180L1015 265"/>
- <path d="M830 90L1120 180L830 270"/>
+<rect width="1600" height="520" rx="26" fill="url(#bg)"/><rect width="1600" height="520" rx="26" fill="url(#grid)"/>
+<circle cx="1250" cy="255" r="390" fill="url(#halo)"/>
+<g fill="none" stroke="url(#neon)" opacity=".68">
+ <path d="M890 260H1040L1100 200H1170M1340 260H1480L1530 210" stroke-width="2"/>
+ <path d="M1240 105V52H1400M1240 405V468H1450M1105 350H1030L980 400H900" stroke-width="1.6"/>
+ <path d="M1130 130L1060 70H990M1370 145L1460 85M1370 365L1460 420" stroke-width="1.5"/>
 </g>
-<g fill="#071a2a" stroke="#43dff7" stroke-width="1.2">
- <circle cx="830" cy="90" r="7"/><circle cx="1015" cy="105" r="7"/><circle cx="1120" cy="180" r="7"/><circle cx="1015" cy="265" r="7"/><circle cx="830" cy="270" r="7"/><circle cx="690" cy="180" r="8"/>
+<g fill="#61edff"><circle cx="1040" cy="260" r="5"/><circle cx="1170" cy="200" r="4"/><circle cx="1400" cy="52" r="4"/><circle cx="1030" cy="350" r="4"/><circle cx="1480" cy="260" r="4"/></g>
+<g transform="translate(1240 260)">
+ <circle r="184" fill="none" stroke="#50e6ff" stroke-opacity=".15" stroke-width="1"/>
+ <circle r="150" fill="none" stroke="url(#neon)" stroke-opacity=".7" stroke-dasharray="4 12" stroke-width="2"/>
+ <circle r="115" fill="none" stroke="#66dfff" stroke-opacity=".4"/>
+ <circle r="82" fill="none" stroke="#bd7cff" stroke-opacity=".55" stroke-dasharray="2 7"/>
+ <circle r="70" fill="url(#core)" filter="url(#glow)"/>
+ <circle r="27" fill="#061521" stroke="#8af7ff" stroke-width="2" filter="url(#glow)"/>
+ <circle r="8" fill="#efffff"/>
+ <g fill="#071626" stroke="#6eeaff" stroke-width="2"><circle cx="0" cy="-150" r="8"/><circle cx="150" cy="0" r="8"/><circle cx="0" cy="150" r="8"/><circle cx="-150" cy="0" r="8"/><circle cx="106" cy="-106" r="6"/><circle cx="-106" cy="106" r="6"/></g>
 </g>
-<circle cx="690" cy="180" r="80" fill="url(#core)" opacity=".95"/>
-<circle cx="690" cy="180" r="27" fill="#061521" stroke="#7cf5ff" stroke-width="1.5" filter="url(#glow)"/>
-<circle cx="690" cy="180" r="8" fill="#d5fcff"/>
-<g fill="none" stroke="#60e9ff" stroke-opacity=".65"><circle cx="690" cy="180" r="43" stroke-dasharray="3 8"/><circle cx="690" cy="180" r="60" stroke-opacity=".3" stroke-dasharray="1 7"/></g>
-<g font-family="Arial, Helvetica, sans-serif">
- <text x="70" y="115" fill="#7cecff" font-size="13" letter-spacing="4">INDEPENDENT SYSTEMS ENGINEERING</text>
- <text x="66" y="174" fill="#f1f8ff" font-size="47" font-weight="700" letter-spacing="1">EVAN KETCHUM</text>
- <text x="70" y="211" fill="#9cb9cb" font-size="17" letter-spacing="2">AI SYSTEMS  /  ENGINEERING INTELLIGENCE  /  COMPUTATIONAL RESEARCH</text>
- <path d="M70 244H490" stroke="#39dff7" stroke-opacity=".65"/>
- <text x="70" y="274" fill="#6c9aaf" font-size="11" letter-spacing="3">DESIGN  •  BUILD  •  TEST  •  VERIFY</text>
- <text x="70" y="315" fill="#4f7188" font-size="10" letter-spacing="2">HUMAN-GOVERNED SYSTEMS · EVIDENCE-DRIVEN ENGINEERING</text>
- <text x="1085" y="40" fill="#4f9cb4" font-size="9" text-anchor="end" letter-spacing="2">SYSTEMS INTERFACE / 001</text>
- <text x="1090" y="330" fill="#4f9cb4" font-size="9" text-anchor="end" letter-spacing="2">ARCHITECTURE VIEW</text>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="92" y="112" fill="#75efff" font-size="17" letter-spacing="6">INDEPENDENT SYSTEMS ENGINEERING</text>
+ <text x="86" y="218" fill="#f2f7ff" font-size="78" font-weight="700" letter-spacing="-2">EVAN KETCHUM</text>
+ <rect x="94" y="250" width="650" height="3" rx="2" fill="url(#neon)"/>
+ <text x="94" y="310" fill="#d7eaff" font-size="25">AI Systems  /  Engineering Intelligence</text>
+ <text x="94" y="350" fill="#d7eaff" font-size="25">Computational Research  /  Human-Governed Architecture</text>
+ <text x="94" y="438" fill="#83a9c9" font-size="14" letter-spacing="4">DESIGN  •  BUILD  •  TEST  •  VERIFY  •  PRESERVE</text>
+ <text x="1490" y="480" fill="#5c7da8" font-size="12" text-anchor="end" letter-spacing="3">EK // SYSTEMS PORTFOLIO</text>
 </g>
+<path d="M0 504H1600" stroke="url(#neon)" stroke-width="2" opacity=".7"/>
 </svg>
