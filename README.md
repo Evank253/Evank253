@@ -24,6 +24,47 @@
 
 ---
 
+## LIVE GITHUB COMMAND CENTER
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evank253&theme=tokyo-night&hide_border=true&area=true" alt="Live contribution activity graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Evank253&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evank253&layout=compact&theme=tokyonight&hide_border=true" alt="Public repository language statistics" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Evank253&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Evank253&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" width="100%" />
+</p>
+
+*These cards display GitHub-hosted contribution and repository statistics. Language percentages reflect detected public repository code, not a ranking of engineering skill.*
+
+## SYSTEMS INTELLIGENCE RADAR
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GOVERNANCE-●%20●%20●%20●%20●-32D9F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-●%20●%20●%20●%20●-818CF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ENGINEERING-●%20●%20●%20●%20●-A78BFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RESEARCH-●%20●%20●%20●%20●-2DD4BF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASSURANCE-●%20●%20●%20●%20●-60A5FA?style=for-the-badge" />
+</p>
+
+*This is a visual map of focus areas, not a measured intelligence score, capability benchmark, or third-party assessment.*
+
+## CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Evank253/Evank253/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+</p>
+
+*The snake animation requires a GitHub Actions workflow to generate and publish the SVG to an output branch. Until that workflow is installed and has run successfully, this image may not display.*
+
 ## THE BUILDER
 
 I’m Evan Ketchum, an independent systems engineer and technical founder developing a portfolio of intelligent systems focused on governed AI, engineering execution, computational research, and infrastructure continuity.
