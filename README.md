@@ -103,6 +103,50 @@ I bring **14 years of telecommunications and field-infrastructure experience**, 
 
 Some projects and implementation details are private or under active development. Public descriptions are intentionally high-level; access to proprietary source, internal architecture, and detailed evidence is controlled. Project maturity varies, and no claim is made that every component is fully integrated or production-ready.
 
+## CODE ACHIEVEMENTS & ENGINEERING PROOF
+
+These are project-backed engineering milestones—not third-party coding certificates. Each card points to a public repository or evidence artifact so visitors can inspect the underlying work.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌘ KCN · GOVERNED INTELLIGENCE</h3>
+      <p><strong>Human-governed AI architecture</strong></p>
+      <p>Public project documentation describes a modular ecosystem built around human governance, verification, security, knowledge, and controlled execution.</p>
+      <a href="https://github.com/Evank253/KCN-SUPER-COGNITIVE-HUMAN-GOVERNED-INTELLIGENCE-ECOSYSTEM-">VIEW REPOSITORY →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ QUANTARA · COMPUTATIONAL RESEARCH</h3>
+      <p><strong>Independent mathematical and computational research</strong></p>
+      <p>Public repository materials document the research direction and associated technical claims. Research claims should be evaluated against their underlying methods and evidence.</p>
+      <a href="https://github.com/Evank253/Quantara-Core">VIEW REPOSITORY →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⬡ KCN · CERTIFICATION TOOLING</h3>
+      <p><strong>Evidence and certificate-generation code</strong></p>
+      <p>Public code includes certificate-generation and capability-certificate components. These are software artifacts, not independent professional accreditation.</p>
+      <a href="https://github.com/Evank253/Global-Intelligence">INSPECT CODE →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✓ PUBLIC BUILD & TEST TRAIL</h3>
+      <p><strong>Repository-level implementation evidence</strong></p>
+      <p>Review source history, project documentation, tests, and CI status directly in the public repositories. Results are scoped to the specific revision and test suite shown.</p>
+      <a href="https://github.com/Evank253?tab=repositories">BROWSE PUBLIC PROJECTS →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Evank253/KCN-SUPER-COGNITIVE-HUMAN-GOVERNED-INTELLIGENCE-ECOSYSTEM-/actions">
+    <img src="https://img.shields.io/badge/ENGINEERING-PUBLIC%20REPOSITORY%20EVIDENCE-0b8fba?style=for-the-badge&logo=github" alt="Public repository evidence" />
+  </a>
+  <a href="https://github.com/Evank253?tab=activity">
+    <img src="https://img.shields.io/badge/DEVELOPMENT-OPEN%20ACTIVITY-7554c8?style=for-the-badge&logo=github" alt="Development activity" />
+  </a>
+</p>
+
 ## TRAINING & PROFESSIONAL CREDENTIALS
 
 My field background includes training and credentials in:
@@ -113,7 +157,7 @@ My field background includes training and credentials in:
 - CPR and First Aid
 - AutoCAD training
 
-Certificate scans and issuing details are not currently published in this portfolio. Supporting documentation can be added to a dedicated credential gallery when the original records are available for review. I do not present training credentials as academic degrees or professional licenses.
+Certificate scans, issuing organizations, credential IDs, and completion dates are not yet published here. I will only display formal certificate images or issuer-verifiable credentials once the original records are available. I do not present training credentials as academic degrees, coding certifications, or professional licenses.
 
 ## EDUCATION
 
